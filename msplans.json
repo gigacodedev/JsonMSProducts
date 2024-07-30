@@ -1,0 +1,194 @@
+[
+  {
+    "GUID": "d2dea78b-507c-4e56-b400-39447f4738f8",
+    "Product_Display_Name": "AI Builder Capacity add-on",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "a7c70a41-5e02-4271-93e6-d9b4184d83f5",
+        "Service_Plan_Name": "CDSAICAPACITY",
+        "Service_Plans_Included_Friendly_Names": "AI Builder capacity add-on",
+        "String_Id": "CDSAICAPACITY"
+      },
+      {
+        "Service_Plan_Id": "113feb6c-3fe4-4440-bddc-54d774bf0318",
+        "Service_Plan_Name": "EXCHANGE_S_FOUNDATION",
+        "Service_Plans_Included_Friendly_Names": "Exchange Foundation",
+        "String_Id": "CDSAICAPACITY"
+      }
+    ]
+  },
+  {
+    "GUID": "8f0c5670-4e56-4892-b06d-91c085d7004f",
+    "Product_Display_Name": "App Connect IW",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "0bfc98ed-1dbc-4a97-b246-701754e48b17",
+        "Service_Plan_Name": "SPZA",
+        "Service_Plans_Included_Friendly_Names": "APP CONNECT",
+        "String_Id": "SPZA_IW"
+      },
+      {
+        "Service_Plan_Id": "113feb6c-3fe4-4440-bddc-54d774bf0318",
+        "Service_Plan_Name": "EXCHANGE_S_FOUNDATION",
+        "Service_Plans_Included_Friendly_Names": "EXCHANGE FOUNDATION",
+        "String_Id": "SPZA_IW"
+      }
+    ]
+  },
+  {
+    "GUID": "9706eed9-966f-4f1b-94f6-bb2b4af99a5b",
+    "Product_Display_Name": "App governance add-on to Microsoft Defender for Cloud Apps",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "f6de4823-28fa-440b-b886-4783fa86ddba",
+        "Service_Plan_Name": "M365_AUDIT_PLATFORM",
+        "Service_Plans_Included_Friendly_Names": "Microsoft 365 Audit Platform",
+        "String_Id": "Microsoft_Cloud_App_Security_App_Governance_Add_On"
+      },
+      {
+        "Service_Plan_Id": "5f3b1ded-75c0-4b31-8e6e-9b077eaadfd5",
+        "Service_Plan_Name": "MICROSOFT_APPLICATION_PROTECTION_AND_GOVERNANCE_A",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Application Protection and Governance (A)",
+        "String_Id": "Microsoft_Cloud_App_Security_App_Governance_Add_On"
+      },
+      {
+        "Service_Plan_Id": "2e6ffd72-52d1-4541-8f6c-938f9a8d4cdc",
+        "Service_Plan_Name": "MICROSOFT_APPLICATION_PROTECTION_AND_GOVERNANCE_D",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Application Protection and Governance (D)",
+        "String_Id": "Microsoft_Cloud_App_Security_App_Governance_Add_On"
+      }
+    ]
+  },
+  {
+    "GUID": "95de1760-7682-406d-98c9-52ef14e51e2b",
+    "Product_Display_Name": "Career Coach for faculty",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "80f0ae31-0dfb-425c-b3fc-36f40170eb35",
+        "Service_Plan_Name": "CAREERCOACH_EDU",
+        "Service_Plans_Included_Friendly_Names": "Career Coach",
+        "String_Id": "CAREERCOACH_FACULTY"
+      }
+    ]
+  },
+  {
+    "GUID": "01c8007a-57d2-41e0-a3c3-0b46ead16cc4",
+    "Product_Display_Name": "Career Coach for students",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "80f0ae31-0dfb-425c-b3fc-36f40170eb35",
+        "Service_Plan_Name": "CAREERCOACH_EDU",
+        "Service_Plans_Included_Friendly_Names": "Career Coach",
+        "String_Id": "CAREERCOACH_STUDENTS"
+      }
+    ]
+  },
+  {
+    "GUID": "0fe440c5-f2bf-442b-a4f4-9a7af77a200b",
+    "Product_Display_Name": "Clipchamp Premium",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "113feb6c-3fe4-4440-bddc-54d774bf0318",
+        "Service_Plan_Name": "EXCHANGE_S_FOUNDATION",
+        "Service_Plans_Included_Friendly_Names": "Exchange Foundation",
+        "String_Id": "Clipchamp_Premium"
+      },
+      {
+        "Service_Plan_Id": "a1ace008-72f3-4ea0-8dac-33b3a23a2472",
+        "Service_Plan_Name": "CLIPCHAMP",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Clipchamp",
+        "String_Id": "Clipchamp_Premium"
+      },
+      {
+        "Service_Plan_Id": "430b908f-78e1-4812-b045-cf83320e7d5d",
+        "Service_Plan_Name": "CLIPCHAMP_PREMIUM",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Clipchamp Premium",
+        "String_Id": "Clipchamp_Premium"
+      },
+      {
+        "Service_Plan_Id": "f7e5b77d-f293-410a-bae8-f941f19fe680",
+        "Service_Plan_Name": "ONEDRIVECLIPCHAMP",
+        "Service_Plans_Included_Friendly_Names": "OneDrive for Business (Clipchamp)",
+        "String_Id": "Clipchamp_Premium"
+      }
+    ]
+  },
+  {
+    "GUID": "481f3bc2-5756-4b28-9375-5c8c86b99e6b",
+    "Product_Display_Name": "Clipchamp Standard",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "113feb6c-3fe4-4440-bddc-54d774bf0318",
+        "Service_Plan_Name": "EXCHANGE_S_FOUNDATION",
+        "Service_Plans_Included_Friendly_Names": "Exchange Foundation",
+        "String_Id": "Clipchamp_Standard"
+      },
+      {
+        "Service_Plan_Id": "a1ace008-72f3-4ea0-8dac-33b3a23a2472",
+        "Service_Plan_Name": "CLIPCHAMP",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Clipchamp",
+        "String_Id": "Clipchamp_Standard"
+      },
+      {
+        "Service_Plan_Id": "f7e5b77d-f293-410a-bae8-f941f19fe680",
+        "Service_Plan_Name": "ONEDRIVECLIPCHAMP",
+        "Service_Plans_Included_Friendly_Names": "OneDrive for Business (Clipchamp)",
+        "String_Id": "Clipchamp_Standard"
+      }
+    ]
+  },
+  {
+    "GUID": "0c266dff-15dd-4b49-8397-2bb16070ed52",
+    "Product_Display_Name": "Microsoft 365 Audio Conferencing",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "3e26ee1f-8a5f-4d52-aee2-b81ce45c8f40",
+        "Service_Plan_Name": "MCOMEETADV",
+        "Service_Plans_Included_Friendly_Names": "Microsoft 365 Audio Conferencing",
+        "String_Id": "MCOMEETADV"
+      }
+    ]
+  },
+  {
+    "GUID": "2b9c8e7c-319c-43a2-a2a0-48c5c6161de7",
+    "Product_Display_Name": "Microsoft Entra ID Basic",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "c4da7f8a-5ee2-4c99-a7e1-87d2df57f6fe",
+        "Service_Plan_Name": "AAD_BASIC",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Entra BASIC",
+        "String_Id": "AAD_BASIC"
+      }
+    ]
+  },
+  {
+    "GUID": "078d2b04-f1bd-4111-bbd4-b4b1b354cef4",
+    "Product_Display_Name": "Microsoft Entra ID P1",
+    "Service_Plans": [
+      {
+        "Service_Plan_Id": "41781fb2-bc02-4b7c-bd55-b576c07bb09d",
+        "Service_Plan_Name": "AAD_PREMIUM",
+        "Service_Plans_Included_Friendly_Names": "Microsoft Entra ID P1",
+        "String_Id": "AAD_PREMIUM"
+      },
+      {
+        "Service_Plan_Id": "932ad362-64a8-4783-9106-97849a1a30b9",
+        "Service_Plan_Name": "ADALLOM_S_DISCOVERY",
+        "Service_Plans_Included_Friendly_Names": "CLOUD APP SECURITY DISCOVERY",
+        "String_Id": "AAD_PREMIUM"
+      },
+      {
+        "Service_Plan_Id": "113feb6c-3fe4-4440-bddc-54d774bf0318",
+        "Service_Plan_Name": "EXCHANGE_S_FOUNDATION",
+        "Service_Plans_Included_Friendly_Names": "EXCHANGE FOUNDATION",
+        "String_Id": "AAD_PREMIUM"
+      },
+      {
+        "Service_Plan_Id": "8a256a2b-b617-496d-b51b-e76466e88db0",
+        "Service_Plan_Name": "MFA_PREMIUM",
+        "Service_Plans_Included_Friendly_Names": "MICROSOFT AZURE MULTI-FACTOR AUTHENTICATION",
+        "String_Id": "AAD_PREMIUM"
+      }
+    ]
+  }
+]
